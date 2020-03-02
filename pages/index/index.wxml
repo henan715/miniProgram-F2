@@ -1,0 +1,5 @@
+<lineChart style="display:block;" data="{{chartData}}"></lineChart>
+
+<lineCanvas style="display:block;" params="{{params}}"></lineCanvas>
+
+<pieCanvas style="display:block" params="{{pieParams}}" />

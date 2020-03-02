@@ -1,0 +1,10 @@
+ff-canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.container{
+  padding: 20rpx;
+  width: 100%;
+  height: 450rpx;
+}

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "lineChart":"/components/lineChart/lineChart",
+    "lineCanvas":"/components/lineCanvas/lineCanvas",
+    "pieCanvas":"/components/pieCanvas/pieCanvas"
+  }
+}

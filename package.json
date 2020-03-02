@@ -1,0 +1,17 @@
+{
+  "name": "miniprogram-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antv/f2-canvas": "^1.0.5",
+    "@antv/wx-f2": "^2.0.1",
+    "@mpxjs/core": "^2.4.13",
+    "@mpxjs/webpack-plugin": "^2.4.11"
+  }
+}
