@@ -1,4 +1,5 @@
 ## 一、工程介绍
+![image](https://github.com/henan715/miniProgram-F2/blob/master/Snip20200302_1.png)
 
 [F2](https://f2.antv.vision/zh)是阿里推出的移动平台图表可视化解决方案，不过官方的文档对新手而言不是特别友好，我在学习的过程中趟了不少坑，特别是在数据延迟加载这一块，官方给出的demo（wx-f2仓库里面已经没有了，我加在仓库的”官方Demo“文件夹中了）中k线页面是模拟了延迟加载的情况，不过我的需求是：
 
